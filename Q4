@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+    int Principle,Rate,Years;
+    int SimpleInterest=(Principle,Rate,Years)/100
+
+    printf("The Value Of Simple Interest is %d",SimpleInterest);
+
+    return 0;
+    
+}

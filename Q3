@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    float Celsius=37;
+    float Farenheit=(Celsius*9/5)+32;
+    
+    printf("The Value Of This Celsius in Farenheit is %f",Farenheit);
+
+    return 0;
+}

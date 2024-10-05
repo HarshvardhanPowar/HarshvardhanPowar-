@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+int main()
+{
+    int Radius=3;
+    float Pi=3.14;
+
+    printf("The Radius Of The Circle is %f",Pi*Radius*Radius);
+
+    int Height=3;
+
+    printf("The Volume Of The Cylinder is %f",Pi*Radius*Radius*Height);
+    
+    return 0;
+    
+}
