@@ -1,0 +1,22 @@
+// To convert the centigrade degree temperature to farenheit 
+
+#include<stdio.h>
+void main()
+
+   float celsius=37;
+
+/* Here formula for converting centigrade degree temperature to farenheit is 
+celsius*(9/5) + 32
+
+   float farenheit=(celsius*9/5)+32;
+
+   printf("The value of farenheit is %f", farenheit);
+// Now here for decimal values or float datatype %f is written in code
+
+
+
+}
+
+// Stop or terminate the program 
+
+   
