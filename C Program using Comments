@@ -1,0 +1,15 @@
+// To print Hello World 
+
+# include<stdio.h>
+// include<stdio.h> is a preprocessor directive. Stdio.j means for standard input output header file 
+void main()
+
+// Void main is a function which is used to initiate the C Progrmming language 
+{
+
+printf("Hello World");
+
+
+}
+
+// Stop or Termination Of the program
