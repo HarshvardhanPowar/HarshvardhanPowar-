@@ -1,0 +1,20 @@
+// To find the simple interest 
+
+#include<stdio.h>
+int main()
+{
+   
+// for finding simple interest firtly we need to know about principle,rate,years
+// the formula for simple intrest is simple intest = (Principle,rate,years) divided by 100
+    int Principle,Rate,Years; 
+// we need to consider principle,rate,years as a integer variables 
+    int SimpleInterest=(Principle*Rate*Years)/100 
+
+    printf("The Value Of Simple Interest is %d",SimpleInterest);
+// %d is used for integer value (int) 
+
+    return 0;
+    
+}
+
+// To Stop or terminate the program
