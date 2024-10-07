@@ -1,0 +1,22 @@
+ 
+// C program using input suppied by user
+
+#include<stdio.h>
+
+int main()
+{
+    float width,Height,Area 
+
+    printf("Enter the Width of the Rectangle");
+    scanf(%f,&width);
+
+    printf("Enter The Height Of the Rectangles");
+    scanf(%f,&Height);
+
+    Area=width*Height;
+
+    printf("The Area Of Rectangele is %f/n",&Area);
+
+    return 0;
+
+}
