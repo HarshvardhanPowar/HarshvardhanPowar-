@@ -1,0 +1,14 @@
+// C program to convert celcius to farenheit
+
+#include<stdio.h>
+void main()
+
+{
+float celsius=37;
+
+float farenheit=celsius*9/5 +32;
+
+printf("The Value of this celsius temprature in Farenheit is %f",farenheit);
+
+return0;
+}
