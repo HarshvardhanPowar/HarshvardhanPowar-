@@ -1,0 +1,22 @@
+// C program using varibles and data types
+include<stdio.h>
+/*
+this multiline comment
+/*
+void main()
+
+{
+int a=4;
+float b=8.5;
+char c='u';
+int d=45;
+int e=45+5;
+
+printf("The value of a is %d/n",a);
+printf("The Value of b is %f/n",b);
+printf("The Value of c is %c/n",c);
+printf("The value of d is %f/n",d);
+printf("The Value od e is %e/n",e);
+
+return0
+}
