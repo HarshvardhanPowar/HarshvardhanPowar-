@@ -1,0 +1,14 @@
+//C progam for calculate the area of rectangle
+
+#include<stdio.h>
+void main()
+{
+int width=5;
+int height=10;
+
+int area = width*height;
+
+printf("The area of reactangle is %d",area);
+
+return0
+}
