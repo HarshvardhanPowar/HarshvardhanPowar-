@@ -1,0 +1,18 @@
+// run time initialization
+
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
+int a;
+
+char b;
+
+printf("enter integer value and character value");
+scanf("%d%c",a and b);
+
+printf("the value of a is %d and the value of b is %c",a,b);
+
+getch()
+}
