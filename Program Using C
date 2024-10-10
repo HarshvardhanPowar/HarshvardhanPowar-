@@ -1,0 +1,15 @@
+#include<stdio.h>
+void main()
+{
+int rn;
+float m1,m2,m3,per;
+
+printf("enter your roll number");
+scanf("%d",&rn);
+
+printf("enter marks of three subjects");
+scanf("%f%f%f",&m1,&m2,&m3);
+per=[(m1+m2+m3)/300]*100;
+printf("roll no %d,percentage%f",rn,per);
+getch();
+}
