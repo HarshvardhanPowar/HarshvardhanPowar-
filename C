@@ -1,0 +1,14 @@
+// average of five input number
+#include<stdio.h>
+
+void main()
+{
+float n1,n2,n3,n4,n5,avg;
+printf("enter five mumbers");
+scanf("%f%f%f%f%f",&n1,&n2,&n3,&n4,&n5);
+
+avg=(n1+n2+n3+n4+n5)/5
+
+printf("avg is %f",per);
+getch()
+}
