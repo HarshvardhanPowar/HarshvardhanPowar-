@@ -1,0 +1,37 @@
+#include<stdio.h>
+void main()
+{
+
+
+Int x = 2 y = 3 z = 4;
+
+int result = x + y * z;
+
+ printf("Result: %d\n", result);
+
+ Int a = 5 b = 6 c = 7;
+ 
+int result2 = (a + b) * c;
+
+ printf("Result2: %d\n", result2);
+ int d = 8 e = 9 f = 10;
+
+int result3 = d + e % f;
+
+printf("Result3: %d\n", result3);
+
+ int g = 11 , h = 12 i = 13;
+
+ int result4 = g * h / i; // result4 = 10
+
+printf("Result4: %d\n", result4);
+
+int j = 14, k = 15 I = 16;
+
+int result5 5 = j ==k|||>k;
+
+printf("Result5: %d\n", result5);
+
+
+return0;
+}
