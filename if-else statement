@@ -1,0 +1,17 @@
+// to accept two numbers and check wheater they equal or not
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int num1,num2,num3;
+printf("Enter the two numbers");
+if(a==b)
+{
+printf("%d %d are equal");
+}
+else
+{
+printf("%d %d are not equal");
+}
+printf("end");
+}
